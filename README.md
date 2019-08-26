@@ -1,6 +1,6 @@
 Hello all,
 
-Welcome to GitHub for our WiDS NLP project!
+Welcome to GitHub for our WiDS Academic Abstract NLP project!
 
 ----
 # webscraper 
